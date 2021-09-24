@@ -1,3 +1,6 @@
 # Local Maps
 
-Full stack application used to teach developers how to develop an application with NodeJS, React and React native
+Usando:
+- Node js
+- React
+- React NativeS
